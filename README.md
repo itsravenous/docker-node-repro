@@ -1,4 +1,4 @@
-This is a reduced test case for the issue raised about `npm install` timing out inside node 16 docker images.
+This is a reduced test case for [the issue raised about `npm install` timing out inside node 16 docker images](https://github.com/nodejs/docker-node/issues/1668).
 
 My machine is an amd64 machine running Ubuntu 20.04.
 
